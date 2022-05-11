@@ -1,2 +1,2 @@
 # priorVAE
-Code of PriorVAE: encoding spatial priors with variational autoencoders
+Demonstration code of the publication "PriorVAE: Encoding spatial priors with VAEs for small-area estimation"
