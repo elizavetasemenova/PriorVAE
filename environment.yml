@@ -1,4 +1,4 @@
-name: spatVAE
+name: PriorVAE
 channels:
   - conda-forge
   - defaults
