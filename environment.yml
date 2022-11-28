@@ -1,4 +1,4 @@
-name: /home/max/priorvae_env
+name: priorvae_jax_minimal
 channels:
   - conda-forge
 dependencies:
@@ -16,4 +16,4 @@ dependencies:
   - openssl
   - jax=0.2.22
   - ipywidgets
-prefix: /home/max/priorvae_env
+prefix: priorvae_jax_minimal
