@@ -11,5 +11,5 @@ Binder version is work in progress:
 
 Code in tis repository is outdated. Please use more recent versions, such as
 
-- PyTorch implementation of the [PriorCVAE](https://arxiv.org/abs/2304.04307) method: [here]((https://github.com/elizavetasemenova/priorcvae))
+- PyTorch implementation of the [PriorCVAE](https://arxiv.org/abs/2304.04307) method: [here](https://github.com/elizavetasemenova/priorcvae)
 - JAX version of the [PriorCVAE](https://arxiv.org/abs/2304.04307) method: [here](https://github.com/elizavetasemenova/priorcvae_jax)
