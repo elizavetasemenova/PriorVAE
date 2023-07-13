@@ -6,3 +6,10 @@ A [runnable demo](https://colab.research.google.com/drive/1KqFrqr0LLSPOyBklk2Uak
 
 Binder version is work in progress:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elizavetasemenova/PriorVAE/HEAD)
+
+## Update
+
+Code in tis repository is outdated. Please use more recent versions, such as
+
+- PyTorch implementation of the [PriorCVAE](https://arxiv.org/abs/2304.04307) method: [here]((https://github.com/elizavetasemenova/priorcvae))
+- JAX version of the [PriorCVAE](https://arxiv.org/abs/2304.04307) method: [here](https://github.com/elizavetasemenova/priorcvae_jax)
